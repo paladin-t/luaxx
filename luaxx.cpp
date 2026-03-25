@@ -26,7 +26,7 @@
 
 #include "luaxx.h"
 extern "C" {
-#	include "../lib/lua/src/ldo.h"
+#	include "lua/src/ldo.h"
 }
 #include <assert.h>
 

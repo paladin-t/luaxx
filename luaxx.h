@@ -27,7 +27,7 @@
 #ifndef __LUAXX_H__
 #define __LUAXX_H__
 
-#include "../lib/lua/src/lua.hpp"
+#include "lua/src/lua.hpp"
 #include <array>
 #include <iomanip>
 #include <memory>
